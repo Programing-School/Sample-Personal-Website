@@ -1,6 +1,6 @@
 # Sample-Personal-Website
 
-## Live website: https://mohamed20911.github.io/Sample-Personal-Website/
+## (live site)[https://programing-school.github.io/Sample-Personal-Website/]
 
 # Front-end Style Guide
 
